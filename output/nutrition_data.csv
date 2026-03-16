@@ -1,0 +1,11 @@
+product_image,nutrient_name_raw,nutrient_name_standard,amount,unit
+product_01.png,Protein,protein,24,g
+product_01.png,Vitamin C,vitamin_c,60,mg
+product_01.png,Calcium,calcium,200,mg
+product_02.png,Ascorbic Acid,vitamin_c,120,mg
+product_02.png,Thiamine Mononitrate,vitamin_b1,1.5,mg
+product_02.png,Pyridoxine HCL,vitamin_b6,2,mg
+product_03.png,Total Fat,total_fat,8,g
+product_03.png,Total Carbohydrate,total_carbohydrate,23,g
+product_03.png,Dietary Fiber,dietary_fiber,5,g
+product_03.png,Protein,protein,10,g
